@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|c:\\users\\zahirul islam\\desktop\\project\\productdeliverymanagement\\productdeliverymanagement\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\orderdeliveries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\orderdeliveries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\controllers\\orderdeliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\controllers\\orderdeliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\orderdeliveries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\orderdeliveries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\untils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\untils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\controllers\\deliverypeoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\controllers\\deliverypeoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\deliverypeople\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\deliverypeople\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\productdeliverymanagement\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{053B0B0A-D3DC-4716-ABE4-C8B01C763615}|ProductDeliveryManagement\\ProductDeliveryManagement.csproj|solutionrelative:productdeliverymanagement\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:00:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Untils\\Utils.cs",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Untils\\Utils.cs",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Untils\\Utils.cs",
+              "RelativeToolTip": "ProductDeliveryManagement\\Untils\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:00:48.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\OrderDeliveries\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\OrderDeliveries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\OrderDeliveries\\Index.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\OrderDeliveries\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwCkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-02-18T18:00:48.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDeliveriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\OrderDeliveriesController.cs",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Controllers\\OrderDeliveriesController.cs",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\OrderDeliveriesController.cs",
+              "RelativeToolTip": "ProductDeliveryManagement\\Controllers\\OrderDeliveriesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:00:48.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-02-18T18:00:48.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductDeliveryManagement\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:00:48.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Models\\DbModel.cs",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Models\\DbModel.cs",
+              "RelativeToolTip": "ProductDeliveryManagement\\Models\\DbModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:00:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\OrderDeliveries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\OrderDeliveries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\OrderDeliveries\\Edit.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\OrderDeliveries\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-02-18T18:00:48.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ProductDeliveryManagement\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:00:48.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\DeliveryPeople\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\DeliveryPeople\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\DeliveryPeople\\Create.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\DeliveryPeople\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-02-18T18:00:48.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-02-18T18:00:48.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "ProductDeliveryManagement\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-02-18T18:00:48.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeliveryPeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\DeliveryPeopleController.cs",
+              "RelativeDocumentMoniker": "ProductDeliveryManagement\\Controllers\\DeliveryPeopleController.cs",
+              "ToolTip": "C:\\Users\\Zahirul Islam\\Desktop\\Project\\ProductDeliveryManagement\\ProductDeliveryManagement\\Controllers\\DeliveryPeopleController.cs",
+              "RelativeToolTip": "ProductDeliveryManagement\\Controllers\\DeliveryPeopleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:00:48.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

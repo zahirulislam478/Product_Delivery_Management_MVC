@@ -1,0 +1,60 @@
+﻿@model ProductDeliveryManagement.Models.Product
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm())
+        {
+            <div>
+                <h3>Add new product item</h3>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.ProductName, new { @class = "col-form-label col-form-label-sm col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.ProductName, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.UnitPrice, new { @class = "col-form-label col-form-label-sm col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.UnitPrice, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.UnitPrice, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Description, new { @class = "col-form-label col-form-label-sm col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextAreaFor(x => x.Description, new { @class = "form-control form-control-sm" })
+                    @Html.ValidationMessageFor(x => x.Description, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-4 offset-2">
+
+                    <div class="form-check">
+                        @Html.CheckBoxFor(x => x.IsAvailable, new { @class = "form-check-input" })
+
+                        @Html.LabelFor(x => x.IsAvailable, new { @class = "form-check-label" })
+
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-4 offset-2 text-end">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+}

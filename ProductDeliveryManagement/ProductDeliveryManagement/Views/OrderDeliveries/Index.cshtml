@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ProductDeliveryManagement.Models.OrderDelivery>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="row">
+    <div class="col-12">
+        <h3>Orders</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a href="@Url.Action("Create", "OrderDeliveries")" class="btn btn-primary btn-sm"><i class="bi bi-plus"></i> Create New</a>
+        </div>
+    </div>
+    <table class="table table-bordered table-striped">
+        <thead class="table-secondary">
+            <tr>
+                <th>@Html.DisplayNameFor(x => x.DeliveryPerson.Name)</th>
+                <th>@Html.DisplayNameFor(x => x.DeliveryPerson.Phone)</th>
+                <th>@Html.DisplayNameFor(x => x.DeliveryPerson.Address)</th>
+                <th>@Html.DisplayNameFor(x => x.Order.Product.ProductName)</th>
+                <th>Status</th>
+                <th>@Html.DisplayNameFor(x=> x.DeliveryDateTime)</th>
+                <th>@Html.DisplayNameFor(x=> x.IsDelivered)</th>
+                <th>...</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.DeliveryPerson.Name</td>
+                    <td>@Html.DisplayFor(x => p.DeliveryPerson.Phone)</td>
+                    <td>@Html.DisplayFor(x => p.DeliveryPerson.Address)</td>
+                    <td>@Html.DisplayFor(x => p.Order.Product.ProductName)</td>
+                    <th>@(ProductDeliveryManagement.Untils.Utils.GetStatus(p))</th>
+                    <td>@Html.DisplayFor(x => p.DeliveryDateTime)</td>
+                    <td>@(p.IsDelivered ? "Yes": "No")</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "OrderDeliveries", new {id=p.OrderDeliveryId})" class="btn btn-success btn-sm"><i class="bi bi-pencil"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="d-flex justify-content-end">
+        @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions
+           {
+               UlElementClasses = new string[] { "pagination", "pagination-sm" },
+               LiElementClasses = new string[] { "page-item" },
+               PageClasses = new string[] { "page-link" },
+               DisplayLinkToNextPage = PagedListDisplayMode.Always,
+               DisplayLinkToPreviousPage = PagedListDisplayMode.Always
+           }
+       )
+    </div>
+</div>
+
+@section styles
+{
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+}
+@section scripts {
+    <script src="~/Scripts/jquery-3.7.0.js"></script>
+    
+
+}
+

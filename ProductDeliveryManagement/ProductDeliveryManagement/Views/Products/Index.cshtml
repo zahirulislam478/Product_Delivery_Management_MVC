@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ProductDeliveryManagement.Models.Product>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-12">
+        <h3>Product items in store</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @*@Html.ActionLink("Add New", "Create", "Products", new { }, new { @class = "btn btn-primary btn-sm" })*@
+            <a href="@Url.Action("Create", "Products")" class="btn btn-primary btn-sm"><i class="bi bi-plus"></i> Add New</a>
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead class="table-secondary">
+                <tr>
+                    <th>@Html.DisplayNameFor(x => x.ProductName)</th>
+                    <th>@Html.DisplayNameFor(x => x.UnitPrice)</th>
+                    <th>@Html.DisplayNameFor(x => x.Description)</th>
+                    <th>@Html.DisplayNameFor(x => x.IsAvailable)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => p.ProductName)</td>
+                        <td>@Html.DisplayFor(x => p.UnitPrice)</td>
+                        <td>@Html.DisplayFor(x => p.Description)</td>
+                        <td>@(p.IsAvailable ? "Yes": "No")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions
+               {
+                   UlElementClasses = new string[] { "pagination", "pagination-sm" },
+                   LiElementClasses = new string[] { "page-item" },
+                   PageClasses = new string[] { "page-link" },
+                   DisplayLinkToNextPage = PagedListDisplayMode.Always,
+                   DisplayLinkToPreviousPage = PagedListDisplayMode.Always
+               }
+           )
+        </div>
+    </div>
+</div>
+@section styles
+{
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+}
+
